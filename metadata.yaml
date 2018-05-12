@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9248
     wikipedia: http://en.wikipedia.org/wiki/George_Bell_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38433#Notes-and-Queries-Vol.-IV-Number-97-September-6-1851--13-A-Medium-of-Inter-communication-for-_
 gutenberg_bookshelf: Notes and Queries
 gutenberg_issued: '2011-12-28'
 gutenberg_type: Text
